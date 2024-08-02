@@ -104,10 +104,6 @@ body {
     font-size:22px;
     text-decoration:none;
   }
-
-  .cover__description  a{
-    all: unset;
-  }
   .cover__description button:hover {
     background-color:rgba(238,130,238,0.274);
     cursor:pointer;
