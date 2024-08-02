@@ -94,7 +94,7 @@ body {
     word-spacing:18px;
     justify-content:center;
   }
-  .cover__description button,.cover__description  a {
+  .cover__description button {
     all:unset;
     border:1px solid;
     width:252px;
@@ -103,6 +103,10 @@ body {
     text-align:center;
     font-size:22px;
     text-decoration:none;
+  }
+
+  .cover__description  a{
+    all: unset;
   }
   .cover__description button:hover {
     background-color:rgba(238,130,238,0.274);
